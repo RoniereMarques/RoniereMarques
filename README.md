@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Hacking in games**
 
-- 👨‍💻 All of my projects are available at [https://www.ronieremarques.dev.br](https://www.ronieremarques.dev.br/)
+- 👨‍💻 All of my projects are available at [https://www.ronieremarques.dev.br](https://www.ronieremarques.dev.br)
 
 - 📝 I regularly write articles on [https://www.empreendedo.com/2024/09/empreendendo-em-desenvolvimento-web.html](https://www.empreendedo.com/2024/09/empreendendo-em-desenvolvimento-web.html)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ronieremarques55@gmail.com**
 
-- 📄 Know about my experiences [https://www.ronieremarques.dev.br/](https://www.ronieremarques.dev.br/)
+- 📄 Know about my experiences [https://www.ronieremarques.dev.br](https://www.ronieremarques.dev.br)
 
 - ⚡ Fun fact **I love technology**
 

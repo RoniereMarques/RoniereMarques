@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/178500256?v=4"  />
+  <img height="150" border="10" src="https://avatars.githubusercontent.com/u/178500256?v=4"  />
 </div>
 
 ###
@@ -8,12 +8,6 @@
   <a href="https://www.linkedin.com/in/roniere-marques-b1523b323/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://www.youtube.com/@ronieremarquesjs">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ronieremarquesjs.ronieremarquesjs&"  />
 </div>
 
 ###
@@ -53,14 +47,3 @@
   
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ronieremarquesjs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###

@@ -1,24 +1,12 @@
-<div align="center">
-  <img height="150" border="10" src="https://avatars.githubusercontent.com/u/178500256?v=4"  />
-</div>
-
 ###
 
+<h1 align="center">hey guys 👋
 <div align="center">
   <a href="https://www.linkedin.com/in/roniere-marques-b1523b323/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://www.youtube.com/@ronieremarquesjs">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+</h1>
 
 <p align="left">I'm from brazil<br><br>- 🔭 I’m working as full-stacks<br>- 📚 I'm currently learning reverse engineering</p>
 
